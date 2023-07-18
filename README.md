@@ -1,2 +1,2 @@
-# easy-pacman
-A pacman helper for beginner
+# easy-arch
+A arch package management helper for beginner
